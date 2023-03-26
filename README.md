@@ -15,7 +15,7 @@ you need configure in svg2pdf_file.bat.
 *pdftk* must be available as a command in terminal (DOS prompt).
 
 ### Locate the batches.
-Put all files in "bat" in the same directory.
+Download source code zip at [releases page](https://github.com/Ooouch1/svg2pdf/releases). Unzip and put all files in "bat" in some directory.
 
 ### Prepare a project directory.
  As an example, let us call the directory "myProj".
