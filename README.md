@@ -10,7 +10,7 @@ Windows batch using Inkscape and pdftk.
 * pdftk
 
 It assumes they have been installed as the installers recommended, i.e., their default setting.
-If you installed *Inkscape* at somewhere different from "C:\\Program Files\\Inkscape\\inkscape.exe",
+If you installed *Inkscape* at somewhere different from "C:\\Program Files\\Inkscape\\bin\\inkscape.exe",
 you need configure in svg2pdf_file.bat.
 *pdftk* must be available as a command in terminal (DOS prompt).
 
